@@ -6,7 +6,7 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false,
+    "preload": true,
     "type": "solo",
     "title": "gfg",
     "name": "gfg",
